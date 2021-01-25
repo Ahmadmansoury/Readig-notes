@@ -1,5 +1,5 @@
-##### Readig-notes
-### Growth mindest
+# Readig-notes
+###### Growth mindest
 
 > growth midest maen that you have the madnaficent wyas to think and how to make your gols comes ture 
 i belive if i wont to have growth mind muste do there steps
