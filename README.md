@@ -4,5 +4,7 @@ intro
 | read   |      links     | 
 |----------|:-------------:|
 | lab 01a  |  [lab 01a](lab01a.md) | 
-| col 2 is |    centered   |
-| col 3 is | right-aligned |  
+| Read 01  |   [Read01.md](Read01.md)   |
+| Read02a  | [Read02a.md](read02a.md) |  
+| Read02b  | [Read02b.md](read02b.md) | 
+| Read3    | [read3.md](read3.md) | 

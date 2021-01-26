@@ -1,0 +1,2 @@
+markdown is a way to make sempel web pages and make tist on it befor use "html" and it using only on github and its have syntax guide like html 
+and we can use what it possible on html like headers,emphasis,make lists,add imges and links.

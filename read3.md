@@ -1,0 +1,3 @@
+structure in the internet its the same on the nwespaper,its have a headline, some text,and images and this make the reading eseyer to the pepole and this is alos we can fid it in the internet pages.
+---------------------------------------------------
+new version was designed to be an improvement on the last (with new elements and attributes added and older code removed, the programers must have the newest version of the browser to view the web pages and must learn the new coding languegs. at the past the programers was useing xml languge on 1998 after that they statr useing HTML.
