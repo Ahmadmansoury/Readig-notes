@@ -1,0 +1,6 @@
+ we can use JavaScript to select any
+element, attribute, or text from an
+HTML page. For example,Select the text inside all of the <h1>,elements on a page,Select any elements that have a c 1 ass attribute with a value of note,Find out what was entered into a,text input whose id attribute has a value of ema i 1and we can us it to "MODIFY CONTENT" and we can use JavaScript to add elements, attributes, and text to thepage, or remove them like add a paragraph of text after the first <h1> element,Change the value of c 1 ass attributes to trigger new CSS rules
+for those elements and Change the size or position of an <img> element.
+ javaScript have rules like any programing languges and we can on javascript specify a set of steps for the browser to follow and allow it to change and access the content of the pages, gallery script can check about image user clicked on it and dispay a big version of the image and can calculat and collect values from any form and display payments.
+ on one word we can call or name the jave script it's the life of the wbe site's or them water.
