@@ -10,3 +10,4 @@ intro
 | Read3    | [read3.md](read3.md) | 
 | Read04   | [read04.md](Read04.md) | 
 | Read05   | [read05.md](Read05.md) | 
+| Read06   | [read06.md](Read06.md) |
